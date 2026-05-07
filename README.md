@@ -11,7 +11,7 @@ The **Academic Records System** is a Python-based command-line application desig
 - **Identify Top Performer**: Find the student with the highest marks.
 
 ## Technologies Used
-- **Programming Language**: Python 3.x
+- **Programming Language**: Python 3.8.8
 - **Data Structures**: Dictionaries and Lists
 - **Concepts Covered**: Loops, Functions, Conditional Statements, Input Handling
 
